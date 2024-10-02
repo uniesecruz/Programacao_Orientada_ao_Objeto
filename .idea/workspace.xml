@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c43e61c-f014-438e-b2a1-4486e2005032" name="Changes" comment="" />
+    <list default="true" id="6c43e61c-f014-438e-b2a1-4486e2005032" name="Changes" comment="projeto de python conectado com API" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,7 +12,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "uniesecruz"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:uniesecruz/Programacao_Orientada_ao_Objeto.git",
+    "accountId": "2cd8b139-c653-49e4-be64-3876060e4a8e"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
 }]]></component>
@@ -23,10 +39,20 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Pycharm/Programacao_Orientada_ao_Objeto",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Pycharm\Programacao_Orientada_ao_Objeto" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Programacao_Orientada_ao_Objeto" />
@@ -68,9 +94,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727909133625</updated>
-      <workItem from="1727909134977" duration="5000" />
+      <workItem from="1727909134977" duration="647000" />
     </task>
+    <task id="LOCAL-00001" summary="projeto alura">
+      <option name="closed" value="true" />
+      <created>1727909309587</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727909309587</updated>
+    </task>
+    <task id="LOCAL-00002" summary="projeto de python conectado com API">
+      <option name="closed" value="true" />
+      <created>1727909756419</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727909756419</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="projeto alura" />
+    <MESSAGE value="projeto de python conectado com API" />
+    <option name="LAST_COMMIT_MESSAGE" value="projeto de python conectado com API" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
