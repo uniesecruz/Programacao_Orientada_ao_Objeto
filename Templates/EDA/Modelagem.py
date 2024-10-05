@@ -4,6 +4,8 @@ import matplotlib.pyplot as plt
 class AnaliseExploratoria:
     def __init__(self):
         self.data=None
+
+
     def read_data(self,path):
         self.data=pd.read_csv(path)
         return self.data

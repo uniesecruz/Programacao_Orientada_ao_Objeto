@@ -8,9 +8,11 @@ summario=analise.summarize(dados)
 #
 # contagem=analise.value_counts("ID")
 
-# print((summario))
+#print((summario))
 
 
 graficos = GeradorGraficos()
 
 graficos.grafico_linhas(dados,'ID', 'Idade')
+
+graficos.histograma(dados,'Idade')
